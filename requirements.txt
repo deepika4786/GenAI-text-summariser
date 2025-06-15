@@ -1,0 +1,6 @@
+torch
+tensorflow
+transformers
+scikit-learn
+nltk
+sentencepiece
