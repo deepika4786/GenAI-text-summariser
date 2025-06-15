@@ -4,3 +4,4 @@ transformers
 scikit-learn
 nltk
 sentencepiece
+gunicorn
